@@ -1,0 +1,7 @@
+{
+  "name": "RutaCasco",
+  "description": "Tienda y catálogo de cascos para moto certificados (integrales, modulares, urbanos y multipropósito) con filtros interactivos, reseñas y calificaciones.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

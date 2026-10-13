@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="100" fill="#0f1a28"/>
+  <circle cx="256" cy="256" r="210" fill="#16273d"/>
+  <!-- Helmet Base -->
+  <path d="M96 290 C80 150 180 80 286 80 C390 80 440 160 440 250 L440 290 C440 326 414 360 380 360 L180 360 C130 360 98 330 96 290 Z" fill="#ffc21a" stroke="#0f1a28" stroke-width="12"/>
+  <!-- Visor -->
+  <path d="M260 180 C320 170 410 190 426 230 L426 270 L280 270 C246 235 240 200 260 180 Z" fill="#0f1a28"/>
+  <!-- Visor highlight -->
+  <path d="M280 190 C325 180 375 190 405 210" stroke="#ffffff" stroke-width="8" stroke-linecap="round" fill="none" opacity="0.4"/>
+  <!-- Chin strap detail -->
+  <rect x="360" y="310" width="40" height="14" rx="7" fill="#0f1a28"/>
+  <path d="M140 355 L380 355" stroke="#0f1a28" stroke-width="18" stroke-linecap="round"/>
+</svg>
